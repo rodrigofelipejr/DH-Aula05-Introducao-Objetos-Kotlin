@@ -1,4 +1,4 @@
-package br.com.digital.exemplo.Exercicio1
+package br.com.digital.kotlin.exercicio1
 
 class Exercicio1 {
    fun main(){

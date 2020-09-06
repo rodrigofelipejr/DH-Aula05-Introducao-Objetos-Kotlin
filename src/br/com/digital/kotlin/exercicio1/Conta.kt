@@ -1,4 +1,4 @@
-package br.com.digital.exemplo.Exercicio1
+package br.com.digital.kotlin.exercicio1
 
 class Conta(var numeroConta: Int, var titular: Cliente) {
     private var saldo: Double = 0.0
